@@ -1,6 +1,4 @@
 # 30DaysofPythonChallenge
-a python challenge for 30 days 
-
 this is a repo following the challenge posted in this article
 https://medium.com/plain-simple-software/30-days-of-python-challenge-a57384fb5a96
 
